@@ -4,7 +4,6 @@
 `TODO://` This app is an app where the user can press a button and after the first time you press it the label above will have its font color changed to red and will also print out "hello" each time it is pressed.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://im5.ezgif.com/tmp/ezgif-5-8cc9ecbf9a.gif" width=200><br>
 

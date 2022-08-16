@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## Rim's button app
 
 ### App Description
 `TODO://` This app is an app where the user can press a button and after the first time you press it the label above will have its font color changed to red and will also print out "hello" each time it is pressed.
